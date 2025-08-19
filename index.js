@@ -1,3 +1,4 @@
+console.log("Welcome to the Scoreboard App!")
 let homeScoreText = document.getElementById("homeScore");
 let guestScoreText = document.getElementById("guestScore");
 let homeScore = 0;
